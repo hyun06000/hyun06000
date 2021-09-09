@@ -25,7 +25,7 @@
 ![cpp](http://img.shields.io/badge/C++-000000?style=flat-square&logo=C++)
 ![ubuntu](http://img.shields.io/badge/Ubuntu-000000?style=flat-square&logo=Ubuntu)
 
-🔍 이 깃헙은 이런 저의 노력으로 채워져 있습니다.  
+🔍 이 깃헙은 이런 저의 노력으로 채워져 있습니다. Python코드의 경우 PEP8을 준수하기위해 노력합니다.  
     (아래의 버튼을 누르시면 해당 repo로 이동합니다.)
   - 꾸준한 알고리즘 공부  
     [![algorithm](http://img.shields.io/badge/-algorithm-000000?style=flat-square)](https://github.com/hyun06000/coding_test_study_with_python)  
