@@ -36,7 +36,7 @@
     [![ResNetTF](http://img.shields.io/badge/-ResNetTF-000000?style=flat-square)](https://github.com/hyun06000/ResNet)
     [![NumpyDL](http://img.shields.io/badge/-NumpyDL-000000?style=flat-square)](https://github.com/hyun06000/DeepLearningFromScratchWithNumpy)
     [![ResNetTorch](http://img.shields.io/badge/-ResNetTorch-000000?style=flat-square)](https://github.com/hyun06000/ResNet_PyTorch_Study)
-  - MLOps
+  - MLOps  
     [![wandbTutorial](http://img.shields.io/badge/-wandbTutorial-000000?style=flat-square)](https://github.com/hyun06000/wandbTutorial)  
     [![researchCI](http://img.shields.io/badge/-researchCI-000000?style=flat-square)](https://github.com/hyun06000/research-ci-tutorial)  
 
