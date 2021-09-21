@@ -38,8 +38,8 @@
     [![ResNetTorch](http://img.shields.io/badge/-ResNetTorch-000000?style=flat-square)](https://github.com/hyun06000/ResNet_PyTorch_Study)
   - MLOps  
     [![wandbTutorial](http://img.shields.io/badge/-wandbTutorial-000000?style=flat-square)](https://github.com/hyun06000/wandbTutorial)
-    [![researchCI](http://img.shields.io/badge/-researchCI-000000?style=flat-square)](https://github.com/hyun06000/research-ci-tutorial)  
-    [![myTemplate](http://img.shields.io/badge/-myTemplate-000000?style=flat-square)](https://github.com/hyun06000/MyTorchTemplate)
+    [![researchCI](http://img.shields.io/badge/-researchCI-000000?style=flat-square)](https://github.com/hyun06000/research-ci-tutorial)
+    [![myTemplate](http://img.shields.io/badge/-myTemplate-000000?style=flat-square)](https://github.com/hyun06000/MyTorchTemplate)  
 
 <!--
 **hyun06000/hyun06000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
