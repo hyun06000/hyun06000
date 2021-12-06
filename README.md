@@ -41,6 +41,7 @@ Generative Model을 이용해서 세상을 이롭게 만드는 것에 관심이 
     [![NumpyDL](http://img.shields.io/badge/-NumpyDL-000000?style=flat-square)](https://github.com/hyun06000/DeepLearningFromScratchWithNumpy)
     [![ResNetTorch](http://img.shields.io/badge/-ResNetTorch-000000?style=flat-square)](https://github.com/hyun06000/ResNet_PyTorch_Study)
   - MLOps  
+    [![DL-serving-fastapi](http://img.shields.io/badge/-DLservingFastAPI-000000?style=flat-square)](https://github.com/hyun06000/DL_serving_fastapi)
     [![wandbTutorial](http://img.shields.io/badge/-wandbTutorial-000000?style=flat-square)](https://github.com/hyun06000/wandbTutorial)
     [![researchCI](http://img.shields.io/badge/-researchCI-000000?style=flat-square)](https://github.com/hyun06000/research-ci-tutorial)
     [![myTemplate](http://img.shields.io/badge/-myTemplate-000000?style=flat-square)](https://github.com/hyun06000/MyTorchTemplate)
