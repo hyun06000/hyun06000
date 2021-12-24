@@ -29,7 +29,10 @@ Generative Model을 이용해서 세상을 이롭게 만드는 것에 관심이 
 ![git](http://img.shields.io/badge/Git-000000?style=flat-square&logo=Git)
 ![github](http://img.shields.io/badge/Github-000000?style=flat-square&logo=Github)
 
-🔍 이 깃헙은 이런 저의 노력으로 채워져 있습니다. Python코드의 경우 PEP8을 준수하기위해 노력합니다.  
+🔍 Python코드의 경우 PEP8을 준수하기위해 노력합니다.  
+
+<!--
+
     (아래의 버튼을 누르시면 해당 repo로 이동합니다.)
   - 꾸준한 알고리즘 공부  
     [![algorithm](http://img.shields.io/badge/-algorithm-000000?style=flat-square)](https://github.com/hyun06000/coding_test_study_with_python)  
@@ -47,7 +50,6 @@ Generative Model을 이용해서 세상을 이롭게 만드는 것에 관심이 
     [![myTemplate](http://img.shields.io/badge/-myTemplate-000000?style=flat-square)](https://github.com/hyun06000/MyTorchTemplate)
     [![DL-unittest-tutorial](http://img.shields.io/badge/-DLUnittestTutorial-000000?style=flat-square)](https://github.com/hyun06000/DL-unittest-tutorial)
 
-<!--
 **hyun06000/hyun06000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
