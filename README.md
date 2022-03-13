@@ -9,7 +9,8 @@ Generative Model을 이용해서 세상을 이롭게 만드는 것에 관심이 
 파이프라인을 연결하고 처리를 자동화하여 지속적인 프로세스 형성에 흥미가 있습니다.  
   
   
-📜지금은 국내 최고의 AI 교육프로그램인 [부스트캠프](https://boostcamp.connect.or.kr/)에서 현업과 실무를 위한 AI 전문가 양성 코스를 수료중입니다.  
+📜[부스트캠프](https://boostcamp.connect.or.kr/)에서 현업과 실무를 위한 AI 전문가 양성 코스를 수료하였습니다.  
+Go, Python을 이용한 API 서버 구현과 클린코드를 적용한 애자일 소프트웨어를 익히기 위해 공부하고 있습니다.  
 [![boostcamp](http://img.shields.io/badge/-BoostCamp-000000?style=flat-square)](https://boostcamp.connect.or.kr/)
   
   
@@ -30,6 +31,7 @@ Generative Model을 이용해서 세상을 이롭게 만드는 것에 관심이 
 ![github](http://img.shields.io/badge/Github-000000?style=flat-square&logo=Github)
 
 🔍 Python코드의 경우 PEP8을 준수하기위해 노력합니다.  
+클린코드를 적용한 코드를 작성하기 위해 노력합니다.
 
 <!--
 
