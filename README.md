@@ -25,6 +25,7 @@ Go, Python을 이용한 API 서버 구현과 클린코드를 적용한 애자일
 ![python](http://img.shields.io/badge/Python-000000?style=flat-square&logo=Python)
 ![tensorflow](http://img.shields.io/badge/Tensorflow-000000?style=flat-square&logo=Tensorflow)
 ![pytorch](http://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=PyTorch)
+![Go](http://img.shields.io/badge/Go-000000?style=flat-square&logo=Go)
 ![cpp](http://img.shields.io/badge/C++-000000?style=flat-square&logo=C++)
 ![ubuntu](http://img.shields.io/badge/Ubuntu-000000?style=flat-square&logo=Ubuntu)
 ![git](http://img.shields.io/badge/Git-000000?style=flat-square&logo=Git)
