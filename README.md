@@ -1,5 +1,6 @@
 ### Hi there! Welcom to my repository. 👋
 ✨ 저는 꾸준히 성장하는 딥러닝 개발자 박상현입니다. 저의 [블로그](https://davi06000.tistory.com/)에 오시면 더 다양한 저의 모습을 보실 수 있습니다.  
+현재는 글로벌 풀필먼트 솔루션 [Tridge](https://www.tridge.com/ko/) 에서 머신러닝 엔지니어로 근무하고 있습니다.
   
   
   
