@@ -12,7 +12,7 @@ MLOps  전문가를 목표로 일하고 공부합니다.
 💬 연락   
 [![blog](http://img.shields.io/badge/-blog-000000?style=flat-square)](https://davi06000.tistory.com/)
 ![email](http://img.shields.io/badge/-hyun06000@gail.com-000000?style=flat-square&logo=Gmail)
-![linkedin](https://www.linkedin.com/in/sang-hyun-park-3b90912aa/)
+[![linkedin](https://img.shields.io/badge/-linkedin-000000?style=flat-square)](https://www.linkedin.com/in/sang-hyun-park-3b90912aa/)
   
   
 💡 스텍  
