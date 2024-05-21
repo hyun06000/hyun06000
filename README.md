@@ -1,18 +1,6 @@
-### Hi there! Welcom to my repository. 👋
-✨ 저는 꾸준히 성장하는 딥러닝 개발자 박상현입니다.  
-MLOps  전문가를 목표로 일하고 있습니다.
-저의 [블로그](https://davi06000.tistory.com/)에 오시면 더 다양한 저의 모습을 보실 수 있습니다.  
-현재는 글로벌 풀필먼트 솔루션 [Tridge](https://www.tridge.com/ko/) 에서 머신러닝 엔지니어로 근무하고 있습니다.
-  
-  
-  
-🔧 관심 분야  
-- 프로젝트에 효과적인 툴을 찾고 효율적인 툴체인을 구성하는 것  
-- 데이터 처리를 위한 파이프라인을 연결하고 자동화, 스케줄링  
-- MLOps 툴체인을 이용한 지속적인 훈련과 지속적인 서빙  
-- 데이터 처리만이 가진 특성을 이해하고 FP와 OOP를 적절하게 적용하는 것  
-- 항상 더 나은 코드를 짜는 것  
-  
+MLOps  전문가를 목표로 일하고 공부합니다.  
+저의 테크블로그 [블로그](https://davi06000.tistory.com/)에 개인 프로젝트들이 있습니다.  
+현재는 글로벌 무역 데이터 솔루션 [Tridge](https://www.tridge.com/ko/) 에서 AI 엔지니어로 근무하고 있습니다.  
 
 📎 이력
 - 충남대학교 물리학과 학사 학위 취득  
@@ -21,24 +9,17 @@ MLOps  전문가를 목표로 일하고 있습니다.
 - 📜[부스트캠프](https://boostcamp.connect.or.kr/) 인공지능 실무자 코스 수료
 - [(주)트릿지](https://www.tridge.com/) AI/MLOps 부서 근무 (현재)  
 
-  
-  
 💬 연락   
 [![blog](http://img.shields.io/badge/-blog-000000?style=flat-square)](https://davi06000.tistory.com/)
 ![email](http://img.shields.io/badge/-hyun06000@gail.com-000000?style=flat-square&logo=Gmail)
-  
+![linkedin](https://www.linkedin.com/in/sang-hyun-park-3b90912aa/)
   
   
 💡 스텍  
 ![python](http://img.shields.io/badge/Python-000000?style=flat-square&logo=Python)
-![tensorflow](http://img.shields.io/badge/Tensorflow-000000?style=flat-square&logo=Tensorflow)
 ![pytorch](http://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=PyTorch)
 ![fastapi](http://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi)
-![Go](http://img.shields.io/badge/Go-000000?style=flat-square&logo=Go)
-![cpp](http://img.shields.io/badge/C++-000000?style=flat-square&logo=C++)
 ![ubuntu](http://img.shields.io/badge/Ubuntu-000000?style=flat-square&logo=Ubuntu)
-![git](http://img.shields.io/badge/Git-000000?style=flat-square&logo=Git)
-![github](http://img.shields.io/badge/Github-000000?style=flat-square&logo=Github)
 ![docker](http://img.shields.io/badge/Docker-000000?style=flat-square&logo=Docker)
 ![k8s](http://img.shields.io/badge/K8s-000000?style=flat-square&logo=Kubernetes)
 
