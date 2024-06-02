@@ -4,7 +4,7 @@ MLOps  전문가를 목표로 일하고 공부합니다.
 
 📎 이력
 - 충남대학교 물리학과 학사 학위 취득  
-- 충남대학교 물리학과 석사 학위 취득 : [인공신경망을 이용한 듀얼 마이크의 방향성 청각 모사](https://library.cnu.ac.kr/eds/detail/edsker_edsker.000004912766)  
+- 충남대학교 물리학과 석사 학위 취득 : [인공신경망을 이용한 듀얼 마이크의 방향성 청각 모사](https://cnu.dcollection.net/public_resource/pdf/200000552820_20240602224147.pdf)  
 - [(주)딥히어링](https://deep-hearing.ai/) 제품 프로토 타입 개발 전담, 총괄 (배포 완료)   
 - 📜[부스트캠프](https://boostcamp.connect.or.kr/) 인공지능 실무자 코스 수료
 - [(주)트릿지](https://www.tridge.com/) AI/MLOps 부서 근무 (현재)  
